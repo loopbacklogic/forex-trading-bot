@@ -247,4 +247,4 @@ This software is provided "as is" without warranty of any kind, express or impli
 
 **🔴 CRITICAL REMINDER: This bot is for educational purposes only. Use exclusively on demo accounts. Trading involves substantial risk of loss.**
 
-[⭐ Star on GitHub](https://github.com/loopbacklogic/forex-trading-bot) | [💬 Discussions](https://github.com/loopbacklogic/forex-trading-bot/discussions) | [🐛 Report Issues](https://github.com/loopbacklogic/forex-trading-bot/issues)
+[⭐ Star on GitHub](https://github.com/loopbacklogic/forex-trading-bot)
