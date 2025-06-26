@@ -44,7 +44,7 @@ Before running the bot, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/forex-trading-bot.git
+git clone https://github.com/loopbacklogic/forex-trading-bot.git
 cd forex-trading-bot
 ```
 
@@ -234,12 +234,12 @@ This software is provided "as is" without warranty of any kind, express or impli
 ## 🆘 Support
 
 **Getting Help**:
-- Check [Issues](https://github.com/your-username/forex-trading-bot/issues) for known problems
-- Review [Discussions](https://github.com/your-username/forex-trading-bot/discussions) for community support
+- Check [Issues](https://github.com/loopbacklogic/forex-trading-bot/issues) for known problems
+- Review [Discussions](https://github.com/loopbacklogic/forex-trading-bot/discussions) for community support
 - Read documentation in the `docs/` folder
 
 **Reporting Issues**:
-- Use the [Issue Tracker](https://github.com/your-username/forex-trading-bot/issues) for bugs
+- Use the [Issue Tracker](https://github.com/loopbacklogic/forex-trading-bot/issues) for bugs
 - Provide detailed information about your setup
 - Include error messages and logs when applicable
 
