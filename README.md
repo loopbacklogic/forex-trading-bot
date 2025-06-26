@@ -25,8 +25,8 @@ This bot implements comprehensive trading functionality:
 - **📰 News Filtering**: Avoids trading during high-impact news events to reduce risk
 - **⚖️ Dynamic Risk Management**: Adjusts position sizes and stop-loss levels based on account balance and market volatility
 - **🎯 Trailing Stops and Break-Even**: Implements ATR-based trailing stops and break-even logic for trade management
-- **📈 Visualization**: Includes real-time trade visualization using Matplotlib and Seaborn
-- **⚙️ Settings Optimization**: Automatically adjusts trading parameters based on account balance and currency pair characteristics
+- **📈 Visualisation**: Includes real-time trade visualisation using Matplotlib and Seaborn
+- **⚙️ Settings Optimisation**: Automatically adjusts trading parameters based on account balance and currency pair characteristics
 
 ## 📋 Prerequisites
 
@@ -93,7 +93,7 @@ python forex_bot_v1.00.py
 
 **The bot will automatically**:
 - Connect to your MT5 demo account
-- Analyze forex pairs for trading signals
+- Analyse forex pairs for trading signals
 - Place trades based on the confluence strategy
 - Manage open positions with trailing stops and break-even logic
 - Log all activities to the console
@@ -108,7 +108,7 @@ python forex_bot_v1.00.py
 ### Step 5: Monitoring
 
 - The bot provides detailed logging of analysis, trades, and account status
-- Trade visualizations are displayed periodically (requires display or VNC for GUI)
+- Trade visualisations are displayed periodically (requires display or VNC for GUI)
 - Monitor console output for real-time updates
 
 ## 🎯 Strategy Status
@@ -120,6 +120,8 @@ python forex_bot_v1.00.py
 - ✅ Position sizing
 - ✅ Trade management
 - ✅ Risk management systems
+
+Well, it sometimes generates profitable trades, but that's another thing altogether. 
 
 **This bot should only be run on a demo account for testing purposes.**
 
@@ -136,14 +138,14 @@ The bot uses a `TradeConfig` dataclass to manage trading parameters:
 | `break_even_atr_multiplier` | Variable | ATR multiplier for moving to break-even |
 | `account_type` | `AccountType.DEMO` | Account type restriction |
 
-**Note**: These settings are automatically optimized based on account balance and currency pair volatility.
+**Note**: These settings are automatically optimised based on account balance and currency pair volatility.
 
 ## 🛡️ Risk Management
 
 The bot implements multiple risk management layers:
 
 - **Position Limit**: Maximum of one open position at a time
-- **Dynamic Position Sizing**: Risk calculated as percentage of account balance
+- **Dynamic Position Sizing**: Risk calculated as a percentage of the account balance
 - **News Avoidance**: Trades avoided during high-impact news events
 - **ATR-Based Stops**: Volatility-adjusted stop-loss and trailing stops
 - **Break-Even Logic**: Automatic move to break-even when profitable
@@ -177,7 +179,7 @@ forex-trading-bot/
 ### Broker Compatibility
 - Ensure your broker supports MT5
 - Verify currency pairs are available in `ForexPairs`
-- Test connection before running bot
+- Test the connection before running the bot
 
 ### Technical Requirements
 - Stable internet connection required
@@ -221,7 +223,7 @@ This software is provided "as is" without warranty of any kind, express or impli
 
 **Educational Purpose**:
 - This bot is designed for educational and testing purposes only
-- The trading strategy is not optimized for profitability
+- The trading strategy is not optimised for profitability
 - Use only on demo accounts to avoid financial loss
 
 **No Financial Advice**:
