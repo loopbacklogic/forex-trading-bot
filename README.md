@@ -158,10 +158,6 @@ forex-trading-bot/
 ├── requirements.txt             # Python dependencies
 ├── README.md                   # This documentation
 ├── LICENSE                     # MIT License
-└── docs/                       # Additional documentation
-    ├── INSTALLATION.md         # Detailed setup guide
-    ├── CONFIGURATION.md        # Advanced configuration
-    └── TROUBLESHOOTING.md      # Common issues and solutions
 ```
 
 ## 🚨 Important Notes
