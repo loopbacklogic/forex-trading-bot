@@ -231,7 +231,6 @@ This software is provided "as is" without warranty of any kind, express or impli
 
 **Getting Help**:
 - Check [Issues](https://github.com/loopbacklogic/forex-trading-bot/issues) for known problems
-- Read documentation in the `docs/` folder
 
 **Reporting Issues**:
 - Use the [Issue Tracker](https://github.com/loopbacklogic/forex-trading-bot/issues) for bugs
